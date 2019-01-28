@@ -2412,11 +2412,12 @@ blockquote p {
 }
 .calculator .nav-pills li a {
   color: #131149;
-  font-size: 18px;
+  font-size: 14px;
   border-radius: 0;
   padding: 24px 0;
   margin: 0 29px;
   border-bottom: 2px solid transparent;
+  text-align: center;
 }
 .calculator .nav-pills li a.active {
   color: #666666;
@@ -2483,6 +2484,11 @@ blockquote p {
 .calculator .tab-content ul.first li {
   border-right: 0;
   background-color: #f5f9fc;
+}
+
+.specialization-text {
+  margin-top: 30px;
+
 }
 .calculator .calculator-info {
   padding: 32px 0 0;

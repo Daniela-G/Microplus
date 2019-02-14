@@ -476,7 +476,7 @@ header .nav-menu span {
 }
 header .nav-menu li {
   position: relative;
-  padding: 43px 21px;
+  padding: 20px 21px 0px 21px;
   list-style: none;
   transition: 0.2s linear;
 }
@@ -540,7 +540,7 @@ header.fixed {
   background: linear-gradient(to bottom, #f1f1f1 0%, #f1f1f1 100%);
 }
 header.fixed .nav-menu li {
-  padding: 43px 21px;
+  padding: 20px 21px 0px 21px;
 }
 header.fixed .nav-menu .sub-menu li {
   padding: 0;
